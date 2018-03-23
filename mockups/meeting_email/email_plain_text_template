@@ -1,0 +1,12 @@
+<h2>You have been invited to a Cheese meeting room</h2>
+<br><h1>#<meeting_name></h1>
+<br>
+<ul>
+    <li>placeholder@email.com</li>
+    <li>holdplace@email.com</li>
+    <li>email@placeholder.com</li>
+</ul>
+<br>
+<a href="#">Join the Meeting?</a>
+<br>
+<span>&copy;Artificial-Ignorance</span> | <span>1-800-555-3385</span> | <span>Company Email</span> | <span>Company Website</span>

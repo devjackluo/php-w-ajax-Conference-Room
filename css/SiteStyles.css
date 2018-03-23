@@ -1,0 +1,113 @@
+
+body {
+    background-color: #125982;
+}
+
+#add_attendee_btn {
+    border-bottom: 2px solid #002396;
+    border-right: 2px solid #002396;
+    box-shadow: 5px 5px 10px #662a00;
+}
+
+#conferenceInvitees {
+    border-bottom: 2px solid #934c00;
+    border-right: 2px solid #934c00;
+    /*----------- NEW LINE DELIMITER -------------*/
+    content: "\A";
+    white-space: pre;
+}
+
+#conferenceName {
+    border-bottom: 2px solid #934c00;
+    border-right: 2px solid #934c00;
+}
+
+#conference_room_form {
+    margin: 50px auto;
+    box-shadow: 15px 15px 30px black;
+    background-color: #e07502;
+    border: 1px solid #fff70f;
+    width: 50%;
+}
+
+#conference_room_button {
+    border: 2px solid #002a6d;
+    font-family: 'Great Vibes', cursive;
+    font-size: large;
+    box-shadow: 5px 5px 10px #662a00;
+    margin-top: 25px;
+}
+
+#fancy_input {
+    border: 2px solid #934c00;
+    font-family: 'Great Vibes', cursive;
+    font-size: 18px;
+    box-shadow: 5px 5px 10px #662a00;
+}
+
+#inviteList li span {
+    vertical-align: middle;
+    padding-bottom: 2px;
+}
+
+#logo {
+    color: #fff70f;
+    font-size: 14px;
+}
+
+#main_form {
+    margin: 0 auto;
+    box-shadow: 15px 15px 30px black;
+    background-color: #e07502;
+    border: 1px solid #fff70f;
+    width: 50%;
+}
+
+#start_conference_button {
+    border-bottom: 2px solid #00560d;
+    border-right: 2px solid #00560d;
+    box-shadow: 5px 5px 10px #662a00;
+}
+
+#title_header {
+    font-family: 'Great Vibes', cursive;
+    font-weight: 800;
+    font-size: 60px;
+    color: #f99100;
+    margin-top: 75px;
+    text-shadow: -1px -1px 0 #fff70f,
+    1px -1px 0 #fff70f,
+    -1px 5px 0 #fff70f,
+    1px 1px 0 #fff70f;
+
+}
+
+@media (min-width: 300px) {
+    #conference_room_form {
+        margin: 50px auto;
+        box-shadow: 15px 15px 30px black;
+        background-color: #e07502;
+        border: 1px solid #fff70f;
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    #conference_room_form {
+        margin: 50px auto;
+        box-shadow: 15px 15px 30px black;
+        background-color: #e07502;
+        border: 1px solid #fff70f;
+        width: 60%;
+    }
+}
+
+@media (min-width: 992px) {
+    #conference_room_form {
+        margin: 50px auto;
+        box-shadow: 15px 15px 30px black;
+        background-color: #e07502;
+        border: 1px solid #fff70f;
+        width: 50%;
+    }
+}

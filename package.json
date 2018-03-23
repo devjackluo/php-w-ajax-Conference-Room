@@ -1,0 +1,13 @@
+{
+  "name": "cheese",
+  "description": "internet video and text meeting service",
+  "author": "Brian Raschko, Casey Johnson, Dennis Sauve, Zhaowen Lou",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^4.0.0-alpha.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webpack": "^1.5.0",
+    "typescript": "^2.6.2"
+  }
+}

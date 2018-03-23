@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target"            : "es5",
+    "module"            : "commonjs",
+    "removeComments"    : true,    
+    "preserveConstEnums": true
+  },
+  "include": [
+    "Index.ts",
+    "ConferenceRoom.ts",
+    "quarts/**/*.ts",
+    "index/**/*.ts",
+    "conferenceRoom/**/*.ts"
+  ]
+}

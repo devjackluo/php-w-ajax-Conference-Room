@@ -1,0 +1,15 @@
+#Jetbrains Files
+.idea
+
+#Ftp Config Files
+.ftpconfig
+.ftpignore
+
+#Linux files
+.hidden
+
+#Visual Studio Code
+.vscode
+
+#cheese lof file
+cheese.log
